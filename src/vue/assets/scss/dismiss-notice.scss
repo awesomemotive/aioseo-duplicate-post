@@ -1,0 +1,8 @@
+@keyframes dismissBtnVisible {
+	from { opacity: 0.99; }
+	to { opacity: 1; }
+}
+.aioseo-duplicate-post-review-plugin-cta button.notice-dismiss {
+	animation-duration: 0.001s;
+	animation-name: dismissBtnVisible;
+}
