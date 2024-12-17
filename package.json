@@ -36,7 +36,7 @@
 		"@vitejs/plugin-react": "^4.3.3",
 		"@vitejs/plugin-vue": "^5.2.0",
 		"@vue/eslint-config-standard": "^8.0.1",
-		"@wordpress/scripts": "^30.4.0",
+		"@wordpress/scripts": "^30.7.0",
 		"classnames": "^2.5.1",
 		"dotenv": "^16.4.5",
 		"dotenv-cli": "^7.4.2",
